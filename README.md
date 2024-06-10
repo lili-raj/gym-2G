@@ -1,1 +1,9 @@
 # gym-2G
+##mENŠÍ TEXT
+### nEJMENŠÍ
+oBYČEJNÝ TEXT
+
+**TUČNÝ**
+*KURZIVA*
+-SEZNAM
+-SEZNAM DRUHÁ NPOLOŽKA
